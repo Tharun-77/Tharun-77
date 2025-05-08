@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 🚀 Enthusiastic about working on projects involving CI/CD, containerization, and microservices.
 
 - 📫 How to reach me: tarunthej.reddy8@gmail.com
+
+---
+
+## 📈 GitHub Stats:
+![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarun-77&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
 <!--
 **Tharun-77/Tharun-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
