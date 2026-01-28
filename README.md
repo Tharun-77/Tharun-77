@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📚 Always learning and staying up-to-date with tech trends.
 - 🚀 Enthusiastic about working on projects involving CI/CD, containerization, and microservices.
 
-- 📫 How to reach me: tarunthej.reddy8@gmail.com
+- 📫 How to reach me: tharunthej.reddy8@gmail.com
 
 ---
 
